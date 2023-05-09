@@ -1,0 +1,50 @@
+.title {
+  text-align: left;
+  font-size: 10px;
+}
+.Contianer {
+  width: 230px;
+  right: 102px;
+  position: absolute;
+  right: -80px;
+  top: 65px;
+  background-color: aliceblue;
+  border-radius: 5px;
+  /* height: 190px; */
+  background-color: aliceblue;
+  position: absolute;
+  /* border-block: 2px; */
+  /* border-radius: 5px; */
+  height: -moz-fit-content;
+  /* height: 380px; */
+  /* border: 1px solid; */
+  padding: 10px;
+  box-shadow: 3px 4px 4px 4px darkslategrey;
+  /* color: rgb(10, 223, 223); */
+  z-index: 1;
+  width: 300px;
+}
+
+/* li{
+    border: 2px black;
+    border-radius: 6px;
+    background-color: lightslategrey;
+    opacity: 0.8;
+
+} */
+
+.icon-button {
+  background-color: transparent;
+  border: 0;
+  border-radius: 45px;
+}
+.icon-button:hover {
+  cursor: pointer;
+}
+.notification-list {
+  list-style-type: none;
+  background-color: gray;
+  border: 2px;
+  border-radius: 2px;
+  margin-bottom: 2px;
+}

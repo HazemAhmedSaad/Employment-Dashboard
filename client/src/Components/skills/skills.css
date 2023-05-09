@@ -1,0 +1,80 @@
+.skill{
+    text-align: center;
+    font-size: xx-large;
+    position: relative;
+    top: 10px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.tech {
+text-align: center;
+display: block;
+font-family: auto;
+
+}
+.table {
+    display: flex;
+    grid-template-columns:repeat(2,350px) ;
+    column-gap: 4rem;
+    justify-content: center;
+}
+.content_skill{
+
+    background-color: var(--container-color);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 2rem 4rem;
+    border-radius: 1.25em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.skills__title{
+font-size: large ;
+font-weight:var(--font-medium);
+text-align: center;
+margin-bottom: var(--mb-1-5);
+}
+.skills__box{
+    display: flex;
+    justify-content: center;
+    column-gap: 2.5rem;
+}
+.skill__group{
+    display: grid;
+    align-items:flex-start ;
+    row-gap: 1rem;
+}
+
+/* htb33ed el data 3n b3d lw afltaha */
+.skills__data{
+    display: flex ;
+    column-gap: 0.5rem;
+}
+.skills .bx-badge-check{
+    font-size: 1rem;
+    color: var(--title-color);
+
+}
+ .skills__level{ 
+    font-size: var(--normal-font-size);
+    font-weight: var(--font-medium);
+    line-height: 18px;
+} 
+/* .content {
+    background-color: var(--container-color);
+    border: 1px solid rgba(65, 64, 64, 0.1);
+    padding: 2rem 4rem;
+    border-radius: 1.25em;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 504px;
+    height: 500px;
+} */
+
+.allcontent{
+    
+        position: relative;
+        right: 150px;
+    
+}

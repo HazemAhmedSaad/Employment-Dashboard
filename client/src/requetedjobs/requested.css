@@ -1,0 +1,58 @@
+.request_card{
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 1rem;
+    min-height: 100px;
+    align-items: center;
+    background-color: aliceblue;
+    box-shadow:rgb(3, 3, 3) ;
+    cursor: pointer;
+    /* width: 800px; */
+
+}
+table{
+    color: white;
+    
+}
+body{
+    margin: auto;
+
+}
+.request_card:hover{
+    box-shadow: rgba(0,0,0,0.1);     
+}  
+
+
+.request_detail{
+        padding: 0 10px; 
+    
+}
+.request_detail>h4 {
+        color:rgb(224, 9, 9) ;
+    font-size: 0.9rem;
+}    
+.requested_header{
+    font-family: 'Poppins', sans-serif;
+    background-color: aqua;
+}
+
+.request_list{
+    margin: 5%;
+    padding: 1rem;
+    background-color: rgba(141, 140, 140, 0.454);
+    border-radius: 15px;
+    width: fit-content;
+}
+
+
+.div-footer {
+    margin-top: 250px;
+}
+.request-body{
+
+  
+
+    background-image: url(../assets/images/w01.jpg);
+  }

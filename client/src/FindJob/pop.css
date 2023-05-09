@@ -1,0 +1,51 @@
+/* .content {
+    height: 480px;
+    background: antiquewhite;
+    width: 30%;
+} */
+
+
+.content{
+ 
+    
+}
+
+.title {
+    text-align: left;
+    font-size: 10px;
+}
+.Contianer {
+    transform: translate(-50%, 10%);
+    position: relative;
+    top: 63%;
+    left: 48%;
+    width: 400px;
+    /* background: white; */
+    border-radius: 10px;
+    /* box-shadow: 10px 10px 15px rgba(0,0,0,0.05); */
+    margin-bottom: 20px;
+    
+}
+
+/* li{
+    border: 2px black;
+    border-radius: 6px;
+    background-color: lightslategrey;
+    opacity: 0.8;
+
+} */
+
+
+/* .icon-button{
+    
+    background-color: transparent;
+    border: 0;
+    border-radius: 45px;
+} */
+/* .icon-button:hover{
+    cursor: pointer;
+} */
+.requirement{
+ 
+    /* height: ; */
+}

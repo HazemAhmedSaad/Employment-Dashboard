@@ -1,0 +1,9 @@
+.Job-content {
+    z-index: 1;
+    width: 70%;
+   
+    position: absolute;
+    /* text-align: center; */
+    text-align: center;
+    left: 12%;
+}
